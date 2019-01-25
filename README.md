@@ -1,0 +1,2 @@
+# Design-and-Analysis-of-Algorithms
+This course is a study of the design, analysis and representation of algorithms. Topics include: Models of computation, fundamental strategies divide-and-conquer, recursion, search and traversal, backtracking, branch-and-bound, analysis tools and techniques for algorithms, representation of sets and graphs, algorithms on graphs, NP-completeness and intractability.
