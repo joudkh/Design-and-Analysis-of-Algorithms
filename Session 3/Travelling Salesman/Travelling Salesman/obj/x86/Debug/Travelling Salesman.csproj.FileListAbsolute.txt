@@ -1,0 +1,30 @@
+E:\MY DATA\Desktop\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+E:\MY DATA\Desktop\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+E:\MY DATA\Desktop\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+E:\MY DATA\Desktop\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+C:\Users\ASUS\Desktop\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+C:\Users\ASUS\Desktop\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+C:\Users\ASUS\Desktop\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+C:\Users\ASUS\Desktop\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csprojResolveAssemblyReference.cache
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csprojResolveAssemblyReference.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Old\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Old\programs\Brute Force\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Old\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csprojResolveAssemblyReference.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Old\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Old\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Old\programs\Brute Force\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csprojResolveAssemblyReference.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb

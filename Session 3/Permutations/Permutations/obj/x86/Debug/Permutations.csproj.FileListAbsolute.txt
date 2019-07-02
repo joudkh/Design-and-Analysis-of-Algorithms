@@ -1,0 +1,43 @@
+E:\MY DATA\Desktop\Permutations\Permutations\bin\Debug\Permutations.exe
+E:\MY DATA\Desktop\Permutations\Permutations\bin\Debug\Permutations.pdb
+E:\MY DATA\Desktop\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+E:\MY DATA\Desktop\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Permutations\Permutations\bin\Debug\Permutations.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Permutations\Permutations\bin\Debug\Permutations.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Permutations\Permutations\obj\x86\Debug\Permutations.csprojResolveAssemblyReference.cache
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\generates\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\generates\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\generates\Permutations\Permutations\bin\Debug\Permutations.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\generates\Permutations\Permutations\bin\Debug\Permutations.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\generates\Permutations\Permutations\obj\x86\Debug\Permutations.csprojResolveAssemblyReference.cache
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\generates\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\generates\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\generates\Permutations\Permutations\bin\Debug\Permutations.exe
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\generates\Permutations\Permutations\bin\Debug\Permutations.pdb
+D:\joud\Study\IT\YPU\2nd Year\Semester 2\AAD\programs\generates\Permutations\Permutations\obj\x86\Debug\Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\Permutations\Permutations\bin\Debug\Permutations.exe
+C:\Users\Joud Khattab\Desktop\Permutations\Permutations\bin\Debug\Permutations.pdb
+C:\Users\Joud Khattab\Desktop\Permutations\Permutations\obj\x86\Debug\Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\Permutations\Permutations\obj\x86\Debug\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+C:\Users\Joud Khattab\Desktop\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 3\Permutations\Permutations\bin\Debug\Permutations.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 3\Permutations\Permutations\bin\Debug\Permutations.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.csprojResolveAssemblyReference.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Permutations\Permutations\bin\Debug\Permutations.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Permutations\Permutations\bin\Debug\Permutations.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Permutations\Permutations\obj\x86\Debug\Permutations.csprojResolveAssemblyReference.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Permutations\Permutations\obj\x86\Debug\Permutations.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+D:\JoudKh\Teaching\2017 - 2018 - 1\AAD\Lab\Session 4\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 2\AAD\Lab\Session 3\Permutations\Permutations\bin\Debug\Permutations.exe
+D:\JoudKh\Teaching\2017 - 2018 - 2\AAD\Lab\Session 3\Permutations\Permutations\bin\Debug\Permutations.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 2\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.csprojResolveAssemblyReference.cache
+D:\JoudKh\Teaching\2017 - 2018 - 2\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2017 - 2018 - 2\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.exe
+D:\JoudKh\Teaching\2017 - 2018 - 2\AAD\Lab\Session 3\Permutations\Permutations\obj\x86\Debug\Permutations.pdb
