@@ -1,0 +1,15 @@
+E:\MY DATA\Desktop\Power\Power\bin\Debug\Power.exe
+E:\MY DATA\Desktop\Power\Power\bin\Debug\Power.pdb
+E:\MY DATA\Desktop\Power\Power\obj\x86\Debug\Power.exe
+E:\MY DATA\Desktop\Power\Power\obj\x86\Debug\Power.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Power\Power\obj\x86\Debug\Power.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Power\Power\obj\x86\Debug\Power.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Power\Power\bin\Debug\Power.exe
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Power\Power\bin\Debug\Power.pdb
+E:\MY DATA\Desktop\joud\ypu\2nd Year\semester 2\AAD\programs\Brute Force\Power\Power\obj\x86\Debug\Power.csprojResolveAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\Power\Power\bin\Debug\Power.exe
+C:\Users\Joud Khattab\Desktop\Power\Power\bin\Debug\Power.pdb
+C:\Users\Joud Khattab\Desktop\Power\Power\obj\x86\Debug\Power.csprojResolveAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\Power\Power\obj\x86\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\Power\Power\obj\x86\Debug\Power.exe
+C:\Users\Joud Khattab\Desktop\Power\Power\obj\x86\Debug\Power.pdb

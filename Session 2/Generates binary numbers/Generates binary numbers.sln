@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generates binary numbers", "Generates binary numbers\Generates binary numbers.csproj", "{1107526E-38D1-4228-9CF8-6169C7D9321B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1107526E-38D1-4228-9CF8-6169C7D9321B}.Debug|x86.ActiveCfg = Debug|x86
+		{1107526E-38D1-4228-9CF8-6169C7D9321B}.Debug|x86.Build.0 = Debug|x86
+		{1107526E-38D1-4228-9CF8-6169C7D9321B}.Release|x86.ActiveCfg = Release|x86
+		{1107526E-38D1-4228-9CF8-6169C7D9321B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
